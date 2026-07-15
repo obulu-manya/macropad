@@ -85,3 +85,4 @@ Add images of:
 ---
 
 This project was created as part of my learning in PCB design using KiCad.
+https://github.com/obulu-manya/macropad.git
